@@ -1,24 +1,24 @@
-# 45 Video Effects for Claude
+# Curcia.pt — 45 Video Effects for Claude
 
 Drop your video into Claude, type `/effects` and the name of an effect. That's the whole edit.
 
-Made by [@vibha.in.progress](https://instagram.com/vibha.in.progress) 💛
+Adapted for **Curcia.pt**.
 
-![All 45 effects](assets/preview.jpg)
+<!-- Curcia.pt preview images will be added here. -->
 
 ## Install (one line)
 
 Open the Terminal app (or the terminal inside Claude Code) and paste:
 
 ```bash
-git clone https://github.com/Vibha-Ramprakash/claude-video-effects ~/.claude/skills/effects
+git clone https://github.com/cursoiapt/claude-video-effects ~/.claude/skills/effects
 ```
 
 On Windows (PowerShell), use `$HOME\.claude\skills\effects` instead of `~/.claude/skills/effects`.
 
 Then restart Claude Code. That's it.
 
-> Not sure how? Open Claude Code and paste: **"Install the skill from github.com/Vibha-Ramprakash/claude-video-effects into ~/.claude/skills/effects"**. Claude will do it for you.
+> Not sure how? Open Claude Code and paste: **"Install the skill from github.com/cursoiapt/claude-video-effects into ~/.claude/skills/effects"**. Claude will do it for you.
 
 ## Use it
 
@@ -101,10 +101,11 @@ Every effect follows your face. Anything that would cover your face goes behind 
 - It renders in 1080p. Ask for 4K if you want it (slower).
 
 ## Honest notes
-- These are **starter versions**. They won't match the exact edit in my reel, which also has sound design and hand-tuned timing.
+- These are **starter versions**. Finished edits may also need sound design and hand-tuned timing.
 - It drafts, you approve. Watch the result before you post.
 - No sounds or captions are added. Add those in CapCut.
-- My full edit style is coming later. Follow [@vibha.in.progress](https://instagram.com/vibha.in.progress) to hear first.
+- Curcia.pt previews will be added as new example videos and images are produced.
+- Default charts, view counts and headlines are sample data; replace them with your own figures and content.
 
 ## If something goes wrong
 Just tell Claude what you see ("the word covers my face", "it's too fast"). It will fix the plan and render again.
