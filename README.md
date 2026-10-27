@@ -1,10 +1,10 @@
-# Curcia.pt — 45 Video Effects for Claude
+# CursoIA.pt — 45 Video Effects for Claude
 
 Drop your video into Claude, type `/effects` and the name of an effect. That's the whole edit.
 
-Adapted for **Curcia.pt**.
+Adapted for **CursoIA.pt**.
 
-<!-- Curcia.pt preview images will be added here. -->
+<!-- CursoIA.pt preview images will be added here. -->
 
 ## Install (one line)
 
@@ -104,7 +104,7 @@ Every effect follows your face. Anything that would cover your face goes behind 
 - These are **starter versions**. Finished edits may also need sound design and hand-tuned timing.
 - It drafts, you approve. Watch the result before you post.
 - No sounds or captions are added. Add those in CapCut.
-- Curcia.pt previews will be added as new example videos and images are produced.
+- CursoIA.pt previews will be added as new example videos and images are produced.
 - Default charts, view counts and headlines are sample data; replace them with your own figures and content.
 
 ## If something goes wrong
